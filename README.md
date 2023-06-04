@@ -10,4 +10,5 @@ if you want run this project, you need install package, setteing emulator, sette
 emulator info.
 
 Pixel 6 API 30
+
 Android 11.0 Google APIs | x86

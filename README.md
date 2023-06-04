@@ -5,7 +5,8 @@ just run on android
 
 just inculde code
 
-if you want run this project, you need install package, setteing emulator, setteing react-native project environment
+if you want run this project, 
+you need install package, setteing emulator, setteing react-native project environment(android studio, VScode, Node.js)
 
 emulator info.
 

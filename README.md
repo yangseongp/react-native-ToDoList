@@ -14,3 +14,6 @@ emulator info.
 Pixel 6 API 30
 
 Android 11.0 Google APIs | x86
+
+
+APK download Link : https://drive.google.com/file/d/16iNwj-w7OsKaR1AQeHYjWpC8_pBVS-Fb/view?usp=drive_link
